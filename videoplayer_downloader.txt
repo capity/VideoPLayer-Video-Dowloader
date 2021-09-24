@@ -5,5 +5,5 @@
   "g_open" : "ca-app-pub-3940256099942544/3419835294",
   "load_time" : 5,
   "show_time" : 7,
-  "show_number" : 1
+  "back_show_number" : 1
   }
