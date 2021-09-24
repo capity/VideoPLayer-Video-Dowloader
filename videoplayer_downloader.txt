@@ -7,3 +7,5 @@
   "show_time" : 7,
   "back_show_number" : 1
   }
+  
+  1 = show, 0 = not show
